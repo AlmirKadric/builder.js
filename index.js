@@ -1,2 +1,2 @@
 
-module.exports = require('./lib/builder');
+module.exports = require('./lib/newBuilder');
